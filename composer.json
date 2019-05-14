@@ -1,0 +1,21 @@
+{
+    "name": "jiang/smile",
+    "description": "composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lihaijaing",
+            "email": "1191108454@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jiang\\Smile\\": "src/smile"
+        }
+    }
+}
