@@ -18,4 +18,9 @@ class TestController
     {
         echo 'Hello World';
     }
+
+    public static function echo2()
+    {
+        echo 'lihaijiang';
+    }
 }
