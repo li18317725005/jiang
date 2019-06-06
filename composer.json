@@ -14,7 +14,7 @@
         "php":">=7.0.0",
         "monolog/monolog": "1.2.*",
         "vlucas/phpdotenv": "^2.5",
-        "catfan/medoo": "dev-master"
+        "catfan/Medoo": "^1.1"
     },
     "autoload": {
         "psr-4": {
