@@ -8,7 +8,7 @@
 
 namespace Jiang\Smile;
 
-class TestController
+class Test
 {
     public function __construct()
     {

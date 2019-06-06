@@ -11,7 +11,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php":">=7.0.0"
+        "php":">=7.0.0",
+        "monolog/monolog": "1.2.*",
+        "vlucas/phpdotenv": "^2.5",
+        "catfan/medoo": "dev-master"
     },
     "autoload": {
         "psr-4": {

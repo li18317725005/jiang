@@ -7,6 +7,7 @@
  */
 require_once './vendor/autoload.php';
 
-use \Jiang\Smile\TestController;
+use \Jiang\Smile\Test;
+use Jiang\Smile\MysqlWords;
 
-TestController::echo();
+echo MysqlWords::getWords();
